@@ -3,7 +3,7 @@
 Classification of fraud data, taken from: https://www.kaggle.com/competitions/amex-default-prediction
 The deadline is August 24th.
 
-# ToDo
+ToDo
 
 Build working train dataset
 
